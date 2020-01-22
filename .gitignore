@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dirs
+node_modules
+dist
+
+# Data
+PEER_CONFIG
+FILE_STORE
+GOSSIP_STORE
+DATA_STORE
+creds.json
+

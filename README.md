@@ -1,2 +1,2 @@
-# monarch-di
+# monarch-id
 Digital Identity and Overlay Network
